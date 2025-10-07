@@ -1,4 +1,4 @@
-public class Main {
+public class project {
     public static void main(String[] args) {
     // Program logic goes here
         int num = 0;
