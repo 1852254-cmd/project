@@ -3,9 +3,9 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
         GradeBook compsci = new GradeBook();
-        compsci.addGrade(72.4);
-        compsci.addGrade(74.2);
-        compsci.addGrade(99.9);
+        compsci.addGrade(85.5);
+        compsci.addGrade(90.0);
+        compsci.addGrade(78.0);
         double avg = compsci.getAvg();
         System.out.println("Grade Average is: " + avg);
     }
